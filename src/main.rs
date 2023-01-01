@@ -13,9 +13,9 @@ use tui::Frame;
 use tui::Terminal;
 use tui_textarea::TextArea;
 
-/// App holds the state of the application
+// App holds the state of the application
 struct App {
-    /// Forth evaluator
+    // Forth evaluator
     pub forth: Forth,
     pub code_status: ForthResult,
     pub input_mode: InputMode,
