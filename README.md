@@ -9,7 +9,7 @@ Then I went on to create a minimal terminal app to play with my partial Forth im
 With this app, you can :
 
 - Push signed integers onto the stack
-- Perform maths operations on the stack ```(+ - * /)```
+- Perform maths operations on the stack ```(+ - * /)``` but they will return integers
 - Manipulate stack with built-in words : ```DUP DROP SWAP OVER```
 - Define or redefine words using built-in or previously defined words and values. Hell, you can even redefine buil-tin words or maths operators if you feel crazy 😂
 - Switch between edit mode and menu with the Esc key.
