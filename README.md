@@ -4,7 +4,7 @@ This a side project to learn more Rust 🦀.
 
 I completed the [Forth exercise on Exercism](https://exercism.org/tracks/rust/exercises/forth), which is implementing a small subset of Forth in Rust. My solution is [here](https://exercism.org/tracks/rust/exercises/forth/solutions/athery).
 
-Then I went on to create a minimal terminal app to play with my partial Forth implementation 🥳 !
+Then I went on to create a minimal terminal app to play with my own subset of Forth 🥳 !
 
 With this app, you can :
 
