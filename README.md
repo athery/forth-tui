@@ -17,6 +17,8 @@ With this app, you can :
 Here is how it looks like :
 ![alt text](forth_tui.png "Forth tui screenshot")
 
+To run it, simply clone this repo and ```cargo run```.
+
 I used [tui-rs](https://github.com/fdehau/tui-rs) for building the app and [tui-textarea](https://github.com/rhysd/tui-textarea) to provide a nice simple multi-line editor.
 
 I am still learning, so if you feel like it, feel free to give feedback to help me write better rust ❤️
